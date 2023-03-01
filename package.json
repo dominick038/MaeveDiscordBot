@@ -6,7 +6,7 @@
   "scripts": {
     "test": "run"
   },
-  "type" : "module",
+  "type": "module",
   "author": "Dominick @Dcypher.it",
   "license": "ISC",
   "dependencies": {
