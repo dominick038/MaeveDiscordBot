@@ -1,0 +1,110 @@
+{
+    "January": {
+        "AvgTemp": 9,
+        "VariableHigh": 1.5,
+        "VariableLow": 3,
+        "WeatherTypes": [
+            "rain",
+            "clouds",
+            "minorSun",
+            "snow"
+        ]
+    },
+    "February": {
+        "AvgTemp": 9,
+        "VariableHigh": 1.5,
+        "VariableLow": 3,
+        "WeatherTypes": [
+            "rain",
+            "clouds",
+            "minorSun",
+            "snow"
+        ]
+    },
+    "March": {
+        "AvgTemp": 16,
+        "VariableHigh": 3,
+        "VariableLow": 6,
+        "WeatherTypes": [
+            "clouds",
+            "minorSun",
+            "rain",
+            "snow"
+        ]
+    },
+    "April": {
+        "AvgTemp": 9,
+        "VariableHigh": 1.5,
+        "VariableLow": 3,
+        "WeatherTypes": [
+            "clouds",
+            "minorSun",
+            "rain",
+            "snow"
+        ]
+    },
+    "May": {
+        "AvgTemp": 9,
+        "VariableHigh": 1.5,
+        "VariableLow": 3,
+        "WeatherTypes": [
+            "clouds"
+        ]
+    },
+    "June": {
+        "AvgTemp": 9,
+        "VariableHigh": 1.5,
+        "VariableLow": 3,
+        "WeatherTypes": [
+            "clouds"
+        ]
+    },
+    "July": {
+        "AvgTemp": 9,
+        "VariableHigh": 1.5,
+        "VariableLow": 3,
+        "WeatherTypes": [
+            "clouds"
+        ]
+    },
+    "August": {
+        "AvgTemp": 9,
+        "VariableHigh": 1.5,
+        "VariableLow": 3,
+        "WeatherTypes": [
+
+        ]
+    },
+    "September": {
+        "AvgTemp": 9,
+        "VariableHigh": 1.5,
+        "VariableLow": 3,
+        "WeatherTypes": [
+
+        ]
+    },
+    "October": {
+        "AvgTemp": 9,
+        "VariableHigh": 1.5,
+        "VariableLow": 3,
+        "WeatherTypes": [
+            "clouds"
+        ]
+    },
+    "November": {
+        "AvgTemp": 9,
+        "VariableHigh": 1.5,
+        "VariableLow": 3,
+        "WeatherTypes": [
+
+        ]
+    },
+    "December": {
+        "AvgTemp": 9,
+        "VariableHigh": 1.5,
+        "VariableLow": 3,
+        "WeatherTypes": [
+
+        ]
+    }
+}

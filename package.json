@@ -4,9 +4,9 @@
   "description": "A discord bot that posts daily weather updates based on the current season",
   "main": "Index.js",
   "scripts": {
-    "test": "run"
+    "dev": "node PushCommands.js && Node Index.js",
+    "public": "Node Index.js"
   },
-  "type": "module",
   "author": "Dominick @Dcypher.it",
   "license": "ISC",
   "dependencies": {
